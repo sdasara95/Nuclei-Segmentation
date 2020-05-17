@@ -4,4 +4,4 @@ Replicated the nuclei segmentation in this paper: https://arxiv.org/pdf/1711.113
 Explored **histomicstk** package to do nuclei segmentation <br />
 Achieved **mean IOU** of **0.528** <br />
 
->Nuclei Segmentation using Histomics.ipynb
+Run the notebook: **Nuclei Segmentation using Histomics.ipynb**
