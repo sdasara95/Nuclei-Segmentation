@@ -7,4 +7,5 @@ Achieved **mean IOU** of **0.528** <br />
 Run the notebook: **Nuclei Segmentation using Histomics.ipynb** <br />
 
 Results: <br />
+<br />
 ![alt text](nuclei-segmentation.PNG)
